@@ -1,10 +1,10 @@
 # [unrated] 부분 문자열인지 확인하기 - 181843 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181843?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181843?language=csharp) 
 
 ### 성능 요약
 
-메모리: 76.7 MB, 시간: 0.02 ms
+메모리: 31.4 MB, 시간: 0.35 ms
 
 ### 구분
 
